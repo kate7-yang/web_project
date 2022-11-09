@@ -1,12 +1,14 @@
 /* TODO:banner 上的文字 需要居中显示 */
 .home-wrapper .banner .banner-conent .hero {
   margin-top: 3rem;
-  text-align: center;
+  /*TODO：补充的代码*/
+  /* text-align: center; */
 }
 
 /* TODO: main-wrapper 通过设置main-wrapper 布局方式 让.main-left  .main-right 正确显示 */
 .main-wrapper {
-  display: flex;/*TODO: display: flex;*/
+  /*TODO：补充的代码*/
+  /* display: flex; */
   margin: 1.5rem auto 0 auto;
   max-width: 1100px;
   padding: 0 0.9rem;
@@ -16,7 +18,8 @@
 
 /*/* TODO 宽度自适应 居左显示 */
 .main-wrapper .main-left {
-  flex: 1;
+  /*TODO：补充的代码*/
+  /* flex: 1; */
 }
 
 /* 宽 245px 居右显示 */
